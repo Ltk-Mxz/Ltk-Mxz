@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Ltk-Mxz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ltk-Mxz&icon=9&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ltk-Mxz&icon=7&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
