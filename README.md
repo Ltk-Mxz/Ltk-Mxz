@@ -13,7 +13,8 @@ Currently, I’m working on various projects that involve backend development an
 
 ## 🛠️ Skills
 
-- **Languages**: HTML, CSS, JavaScript, PHP, Python, C, SQL
-- **Frameworks & Libraries**: Node.js, Express.js, React.js, Tailwind CSS, PyQt6, Django
+- **Languages**: HTML, CSS, JavaScript, PHP, Python, C, SQL.
+- **Frontends Technologies**: HTML, CSS, Tailwind CSS, Bootstrap, React.js.
+- **Backends Technologies**: Node.js, Express.js, Django, PHP.
 - **Databases**: MySQL, SQLite, MongoDB
 - **Tools**: Git, GitHub, VS Code, Postman
