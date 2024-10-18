@@ -1,5 +1,5 @@
-# Hello, I'm Paul 👋
-
+# Hello, It's Paul 👋
+Check my portfolio here: <a href="https://paul-portfolio.onrender.com">Portfolio</a>
 ## 🚀 About Me
 
 I'm a **Computer Science** student passionate about **Full Stack Web Development** and **Cybersecurity**. I enjoy building secure, scalable web applications and APIs, and I'm eager to specialize further in the field of cybersecurity.
