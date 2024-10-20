@@ -1,4 +1,4 @@
-# Hello, It's Paul 👋
+# Hello, It's Paul A. 👋
 Check my portfolio here: <a href="https://paul-portfolio.onrender.com">Portfolio</a>
 ## 🚀 About Me
 
