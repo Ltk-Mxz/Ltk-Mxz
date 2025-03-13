@@ -1,6 +1,4 @@
 # Hello, It's Ltk Mxz.👋
-Check my **portfolio** here: <a href="https://paul-portfolio.onrender.com">Portfolio</a>
-
 <br>
 <br>
 
@@ -22,3 +20,6 @@ I'm a **Computer Science** student passionate about **Full Stack Development** a
 - **Desktop Technologies** : Electron.js , PyQt5+
 - **Databases** : MySQL , SQLite ,  MongoDB
 - **Tools**: Git , GitHub , VS Code , Postman
+
+## 📋 Portfolio
+Check my **portfolio** here: <a href="https://paul-portfolio.onrender.com">Portfolio</a>
