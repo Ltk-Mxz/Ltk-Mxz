@@ -1,4 +1,4 @@
-# Hello, It's Ltk Mxz. 😎👋
+# Hello, It's Ltk Mxz.👋
 Check my **portfolio** here: <a href="https://paul-portfolio.onrender.com">Portfolio</a>
 
 <br>
