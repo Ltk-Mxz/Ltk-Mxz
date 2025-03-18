@@ -8,7 +8,7 @@ I'm a **Computer Science** student passionate about **Full Stack Development** a
 - 🔐 **Interested in**: Cybersecurity, Web & Mobile & Desktop development, AI (ML & DL), Cloud computing.
 - 💼 **Looking for**: Internship opportunities to gain hands-on experience in web & mobile development and cybersecurity.
 - ⚡ **Fun fact**: I love eating bean. 😅
-- 
+  
 <br>
 
 ## 🛠️ Skills
@@ -19,7 +19,7 @@ I'm a **Computer Science** student passionate about **Full Stack Development** a
 - **Desktop Technologies** : Electron.js , PyQt5+, Tkinter.
 - **Databases** : MySQL , SQLite ,  MongoDB.
 - **Tools**: Git , GitHub , VS Code , Postman.
-- 
+
 <br>
 
 ## 📋 Portfolio
