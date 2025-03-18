@@ -7,7 +7,7 @@ I'm a **Computer Science** student passionate about **Full Stack Development** a
 - 🌱 **Currently learning**: Fullstack development.
 - 🔐 **Interested in**: Cybersecurity, Web & Mobile & Desktop development, AI (ML & DL), Cloud computing.
 - 💼 **Looking for**: Internship opportunities to gain hands-on experience in web & mobile development and cybersecurity.
-- ⚡ **Fun fact**: I love eating bean. 😅
+- ⚡ **Fun fact**: Love eating bean. 😅
   
 <br>
 
