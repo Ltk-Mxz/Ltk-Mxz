@@ -18,7 +18,7 @@ I'm a **Computer Science** student passionate about **Full Stack Development** a
 - **Mobile Technologies** : React Native , Flutter, MIT APP Inventor 😅, FlutterFlow.
 - **Desktop Technologies** : Electron.js , PyQt5+, Tkinter.
 - **Databases** : MySQL , SQLite ,  MongoDB.
-- **Tools**: Git , GitHub , VS Code , Postman.
+- **Tools**: Git , GitHub , VS Code , Postman , Insomnia.
 
 <br>
 
