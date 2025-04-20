@@ -1,4 +1,4 @@
-ht<h1 align="center"><strong>Hello, It's Paul A. </strong>👋</h1>
+<h1 align="center"><strong>Hello, It's Paul A. </strong>👋</h1>
 
 <br>
 
