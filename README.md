@@ -33,3 +33,7 @@ I'm a **Computer Science** student passionate about **Full Stack Development** a
 
 ## 📋 Portfolio
 Check my **portfolio** here: <a href="https://paul-portfolio.onrender.com">Portfolio</a>
+
+<p align="center">
+  <img height="300" src="<div class="tenor-gif-embed" data-postid="13472292" data-share-method="host" data-aspect-ratio="1.78" data-width="100%"><a href="https://tenor.com/view/akashiki-anime-huh-confused-stare-gif-13472292">Akashiki Anime GIF</a>from <a href="https://tenor.com/search/akashiki-gifs">Akashiki GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" alt="Coding all day" />
+</p>
