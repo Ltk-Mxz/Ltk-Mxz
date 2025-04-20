@@ -4,6 +4,8 @@
 
 
 <p align="center">
+  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJrczVrcHhvY3M5dHIwbzY0Zmd5ODJhZWZoN3NlZzQxbmwweGNndSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KphDFbotQHzU5LBnBu/giphy.gif" alt="Coding all day" />
+
   <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB6aWMzcjQ5Z2x3cjJkMDl2emRzdXM1ZmF2YXhnZjZuODF1bXFmcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/STroE7bTBLTzxQUrZc/giphy.gif" alt="Coding all day" />
 </p>
 
