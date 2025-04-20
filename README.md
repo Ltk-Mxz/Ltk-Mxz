@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB6aWMzcjQ5Z2x3cjJkMDl2emRzdXM1ZmF2YXhnZjZuODF1bXFmcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" alt="Coding all day" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB6aWMzcjQ5Z2x3cjJkMDl2emRzdXM1ZmF2YXhnZjZuODF1bXFmcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/STroE7bTBLTzxQUrZc/giphy.gif" alt="Coding all day" />
 </p>
 
 # Hello, It's **Paul A**. 👋
