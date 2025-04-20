@@ -18,7 +18,6 @@ I'm a **Computer Science** student passionate about **Full Stack Development** a
 
 <h2 align="center"><strong>🛠️ Skills</strong></h2>
 
-- **Languages**: JavaScript , Python , PHP.
 - **Frontends Technologies** : React.js , Next.js , Bootstrap CSS , Tailwind CSS.
 - **Backends Technologies** : Node.js , Express.js , Django , PHP.
 - **Mobile Technologies** : React Native , Flutter, MIT APP Inventor 😅, FlutterFlow.
