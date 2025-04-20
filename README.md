@@ -19,6 +19,7 @@ I'm a **Computer Science** student passionate about **Full Stack Development** a
 - **Desktop Technologies** : Electron.js , PyQt5+, Tkinter.
 - **Databases** : MySQL , SQLite ,  MongoDB, PostgreSQL
 - **Tools**: Git , GitHub , VS Code , Postman , Insomnia 👀.
+- **Scripting** : Python , Bash
 
 <br>
 
