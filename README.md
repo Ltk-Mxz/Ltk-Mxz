@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://i.imgur.com/abcdef.gif" alt="Coding all day" />
-  <img src="https://tenor.com/bad4v.gif" alt="Coding all day" />
   <img src="https://tenor.com/bad4v.gif" alt="Coding all day" />
 </p>
 
