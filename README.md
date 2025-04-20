@@ -6,7 +6,7 @@
 
 <br>
 
-<h2 align="center"><strong>😎 About Me</strong>👋</h2>
+<h2 align="center"><strong>😎 About Me</strong></h2>
 
 I'm a **Computer Science** student passionate about **Full Stack Development** and **Cybersecurity**. I enjoy building secure, scalable web applications and APIs, and I'm eager to specialize further in the field of cybersecurity.
 - 🌱 **Currently learning**: Fullstack development.
