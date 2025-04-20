@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://i.imgur.com/abcdef.gif" alt="Coding all day" />
+  <img src="https://tenor.com/bad4v.gif" alt="Coding all day" />
+  <img src="https://tenor.com/bad4v.gif" alt="Coding all day" />
+</p>
+
 # Hello, It's **Paul A**. 👋
 
 <br>
@@ -25,3 +31,7 @@ I'm a **Computer Science** student passionate about **Full Stack Development** a
 
 ## 📋 Portfolio
 Check my **portfolio** here: <a href="https://paul-portfolio.onrender.com">Portfolio</a>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB6aWMzcjQ5Z2x3cjJkMDl2emRzdXM1ZmF2YXhnZjZuODF1bXFmcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" alt="Eat - Sleep - Code - Repeat" />
+</p>
