@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB6aWMzcjQ5Z2x3cjJkMDl2emRzdXM1ZmF2YXhnZjZuODF1bXFmcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/STroE7bTBLTzxQUrZc/giphy.gif" alt="Coding all day" />
-</p>
-
 <h1 align="center"><strong>Hello, It's Paul A. </strong>👋</h1>
 
 <br>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB6aWMzcjQ5Z2x3cjJkMDl2emRzdXM1ZmF2YXhnZjZuODF1bXFmcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/STroE7bTBLTzxQUrZc/giphy.gif" alt="Coding all day" />
+</p>
 
 <h2 align="center"><strong>😎 About Me</strong></h2>
 
