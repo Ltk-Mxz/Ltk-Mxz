@@ -13,7 +13,7 @@
 
 I'm a **Computer Science** student passionate about **Full Stack Development** and **Cybersecurity**. I enjoy building secure, scalable web applications and APIs, and I'm eager to specialize further in the field of cybersecurity.
 - 🌱 **Currently learning**: Fullstack development.
-- 🔐 **Interested in**: Cybersecurity, Web & Mobile & Desktop development, AI (ML & DL), Cloud computing.
+- 🔐 **Interested in**: DevOps , Cybersecurity, Web & Mobile & Desktop development , AI (ML & DL), Cloud computing.
 - 💼 **Looking for**: Internship opportunities to gain hands-on experience in web & mobile development and cybersecurity.
 - ⚡ **Fun fact**: Love eating bean. 😅
   
