@@ -23,10 +23,11 @@ I'm a **Computer Science** student passionate about **Full Stack Development** a
 
 - **Frontends Technologies** : React.js , Next.js , Bootstrap CSS , Tailwind CSS.
 - **Backends Technologies** : Node.js , Express.js , Django , PHP.
-- **Mobile Technologies** : React Native , Flutter, MIT APP Inventor 😅, FlutterFlow.
+- **Mobile Technologies** : React Native , Flutter, MIT APP Inventor, FlutterFlow.
 - **Desktop Technologies** : Electron.js , PyQt5+, Tkinter.
 - **Databases** : MySQL , SQLite ,  MongoDB, PostgreSQL
-- **Tools**: Git , GitHub , VS Code , Postman , Insomnia 👀.
+- **Dev Tools**: Git , GitHub , VS Code.
+- **API Tools**: Curl, Postman , Insomnia.
 - **Scripting** : Python , Bash
 
 <br>
