@@ -28,6 +28,7 @@ I'm a 2nd year **Computer Science** student passionate about **Full Stack Develo
 - **API Tools**: Curl, Postman , Insomnia.
 - **Scripting** : Python , Bash.
 - **Design** : Figma, Penpot, Pencil.
+- **AI-Powered Development Tools** : GitHub Copilot, Cursor, Trae, Windsurf.
 
 <br>
 
