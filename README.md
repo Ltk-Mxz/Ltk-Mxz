@@ -13,7 +13,7 @@ I'm a 2nd year **Computer Science** student passionate about **Full Stack Develo
 - 🌱 **Currently learning**: Mobile development.
 - 🔐 **Interested in**: DevOps , Cybersecurity, Web & Mobile & Desktop development , AI (ML & DL), Cloud computing.
 - 💼 **Looking for**: Internship opportunities to gain hands-on experience in web & mobile development and cybersecurity.
-- ⚡ **Fun fact**: Love eating bean. 😅
+- ⚡ **Fun fact**: I read at least two books a week, spanning all genres. I particularly enjoy spiritual books and detective novels!.
   
 <br>
 
