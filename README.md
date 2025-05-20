@@ -3,8 +3,12 @@
 <br>
 
 
+<!-- <p align="center"> -->
+<!--   <img height="300" src="" alt="Coding all day" /> -->
+<!-- </p> -->
+
 <p align="center">
-  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJrczVrcHhvY3M5dHIwbzY0Zmd5ODJhZWZoN3NlZzQxbmwweGNndSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KphDFbotQHzU5LBnBu/giphy.gif" alt="Coding all day" />
+  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhreW9ibDM0ZDBtaGExeW1maGthNTE0ZXU4YjJ0M3ZjczgxcmNhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLXN769mYhrIQ/giphy.gif" />
 </p>
 
 <h2 align="center"><strong>😎 About Me</strong></h2>
