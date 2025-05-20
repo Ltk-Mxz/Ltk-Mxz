@@ -39,4 +39,4 @@ I'm a 2nd year **Computer Science** student passionate about **Full Stack Develo
 <br>
 
 ## 📋 Portfolio
-Check my **portfolio** here: <a href="https://paul-portfolio.onrender.com">Portfolio</a>
+Check my **portfolio** here: <a href="https://portfolio-wam2.onrender.com">Portfolio</a>
