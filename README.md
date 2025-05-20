@@ -8,8 +8,9 @@
 <!-- </p> -->
 
 <p align="center">
-  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhreW9ibDM0ZDBtaGExeW1maGthNTE0ZXU4YjJ0M3ZjczgxcmNhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLXN769mYhrIQ/giphy.gif" />
+  <img height="300" src="https://media.giphy.com/media/tbyjrIX9NlZ8k/giphy.gif?cid=ecf05e474n0ro39eckzm749uso84kgcs33ed5u5ynegb7tqq&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 </p>
+
 
 <h2 align="center"><strong>😎 About Me</strong></h2>
 
