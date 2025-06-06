@@ -13,7 +13,7 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
 - 🌱 **Currently learning**: Mobile development.
 - 🔐 **Interested in**: DevOps, Cybersecurity, Web & Mobile & Desktop development, AI (ML & DL), Cloud computing.
 - 💼 **Looking for**: Internship opportunities to gain hands-on experience in web & mobile development and cybersecurity.
-- ⚡ **Fun fact**: I read at least two books a week, spanning all genres. I particularly enjoy spiritual books and detective novels!
+- ⚡ **Fun fact**: Big fan of Sherlock Holmes and totally anime-addicted ⚡ I devour at least two books a week — especially detective stories and spiritual reads!
 
 <br>
 
@@ -43,10 +43,6 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
 - **Front End Development Libraries** (Mar 2025, FreeCodeCamp)
 - **JavaScript Algorithms and Data Structures** (May 2024, FreeCodeCamp)
 - **Mobile Development** (Since Mar 2025, DCUC - OIF)
-- **Passer au Full Stack avec Node.js, Express et MongoDB** (Oct 2024, OpenClassrooms)
-- **Organiser et Packager une application Java avec Apache Maven** (Nov 2024, OpenClassrooms)
-- **Mettez en place une API avec Django REST Framework** (Jun 2024, OpenClassrooms)
-- **Testez votre projet Python** (Jul 2024, OpenClassrooms)
 - **ChatGPT Prompt Engineering for Developers** (Feb 2025, DataCamp)
 - **AWS Cloud Practitioner (CLF-C02)** (Nov 2024, DataCamp)
 
