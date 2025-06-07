@@ -33,7 +33,7 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
 
 <br>
 
-## 📜 Certifications
+<h2 align="center"><strong>📜 Certifications</strong></h2>
 
 - **CSSO SQL** (Jul 2024, Howard University)
 - **CSSO Python** (Jul 2024, Howard University)
