@@ -48,7 +48,7 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
 
 <br>
 
-## 🚀 Projects
+<h2 align="center"><strong>🚀 Projects</strong></h2>
 
 - **Kadodo (Mar 2025)**  
   A school project for ESA Agoe's cultural week, managing UI design, frontend, and backend.  
