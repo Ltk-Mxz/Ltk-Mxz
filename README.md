@@ -99,8 +99,8 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
 
 <br>
 
-## 📋 Portfolio
+<h2 align="center"><strong>📋 Portfolio</strong></h2>
 
-Check my **portfolio** here: <a href="https://portfolio-wam2.onrender.com">Portfolio</a>
+<p align="center">Check my <strong>portfolio</strong> here: <a href="https://portfolio-wam2.onrender.com">Portfolio</a></p>
 
 <br>
