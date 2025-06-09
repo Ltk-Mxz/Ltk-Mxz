@@ -88,8 +88,8 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
   [GitHub Link](#)
 
 - **S3 Va (Dec 2024-Feb 2025)**  
-  Web app for users to propose, search, and exchange services.  
-  **Tech Stack**: Not specified in CV.  
+  Web app for users to propose, search, and exchange books.  
+  **Tech Stack**: HTML, CSS, JavaScript, PHP.  
   [GitHub Link](#)
 
 - **Frontend School Management System (Nov 2024)**  
