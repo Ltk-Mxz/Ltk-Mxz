@@ -95,7 +95,7 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
 - **Frontend School Management System (Nov 2024)**  
   Web interface for managing school data (students, teachers, classes).  
   **Tech Stack**: React.js, Next.js.  
-  [GitHub Link](#)
+  [GitHub Link](frontend-school-management-system)
 
 <br>
 
