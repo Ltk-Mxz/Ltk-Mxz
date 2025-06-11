@@ -87,15 +87,15 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
   **Tech Stack**: HTML, CSS, JavaScript, Electron, Node.js, MySQL.  
   [GitHub Link](#)
 
-- **S3 Va (Dec 2024-Feb 2025)**  
+- **SoVa (Dec 2024-Feb 2025)**  
   Web app for users to propose, search, and exchange books.  
   **Tech Stack**: HTML, CSS, JavaScript, PHP.  
-  [GitHub Link](#)
+  [GitHub Link](https://github.com/Ltk-Mxz/sova)
 
 - **Frontend School Management System (Nov 2024)**  
   Web interface for managing school data (students, teachers, classes).  
   **Tech Stack**: React.js, Next.js.  
-  [GitHub Link](frontend-school-management-system)
+  [GitHub Link](https://github.com/Ltk-Mxz/frontend-school-management-system)
 
 <br>
 
