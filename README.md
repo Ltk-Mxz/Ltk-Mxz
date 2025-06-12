@@ -35,8 +35,8 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
 
 <h2 align="center"><strong>📜 Certifications</strong></h2>
 
-- **CSSO SQL** (Jul 2024, Howard University)
-- **CSSO Python** (Jul 2024, Howard University)
+- **CSSO SQL** (Jul 2024, Havard University)
+- **CSSO Python** (Jul 2024, Havard University)
 - **Back-End Development and APIs** (Aug 2024, FreeCodeCamp)
 - **Relational Database** (May 2025, FreeCodeCamp)
 - **Responsive Web Design** (Apr 2024, FreeCodeCamp)
@@ -85,7 +85,7 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
 - **Alert Center (Dec 2024-Feb 2025)**  
   Cybersecurity incident management app with secure authentication and responsive UI.  
   **Tech Stack**: HTML, CSS, JavaScript, Electron, Node.js, MySQL.  
-  [GitHub Link](#)
+  [GitHub Link](https://github.com/Ltk-Mxz/alert-center)
 
 - **SoVa (Dec 2024-Feb 2025)**  
   Web app for users to propose, search, and exchange books.  
