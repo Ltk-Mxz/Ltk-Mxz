@@ -50,18 +50,6 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
 
 <h2 align="center"><strong>🚀 Projects</strong></h2>
 
-- **Kadodo (Mar 2025)**  
-  A school project for ESA Agoe's cultural week, managing UI design, frontend, and backend.  
-  **Tech Stack**: HTML, CSS, JavaScript, PHP, Bootstrap.  
-  **Role**: Project Manager & Full Stack Developer.  
-  **Outcome**: Successfully presented during cultural days.  
-
-- **MIABE Hackathon (Feb-May 2025)**  
-  Finalist in MIABE Hackathon 2025, leading UI/UX design and backend development.  
-  **Tech Stack**: Node.js, MongoDB, Firebase, OpenStreetMap.  
-  **Role**: Project Manager, Lead UI/UX, Backend Developer.  
-  **Outcome**: Official finalist.
-
 - **SanoC APIs (Mar 2025)**  
   Backend for a medical platform connecting patients, doctors, and hospitals. Features include REST API, user management, and secure file storage.  
   **Tech Stack**: Node.js, Express, Firebase/Firestore, Cloudinary.  
