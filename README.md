@@ -63,7 +63,7 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
 - **Resume Builder (Dec 2024-Feb 2025)**  
   Web app for creating, editing, and downloading professional resumes.  
   **Tech Stack**: HTML, CSS, JavaScript, Python, Django.  
-  [GitHub Link](#)
+  [GitHub Link](https://github.com/Ltk-Mxz/resume-builder)
 
 - **Portfolio (Since Jun 2024)**  
   Dynamic web portfolio with Google OAuth authentication and admin interface for content management.  
