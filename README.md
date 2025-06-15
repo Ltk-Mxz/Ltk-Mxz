@@ -87,7 +87,7 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
 
 <br>
 
-<h2 align="center"><strong>💬 Citations préférées / 💬 Favorite Quotes</strong></h2>
+<h2 align="center"><strong>💬 Favorite Quotes / 💬 Citations préférées</strong></h2>
 
 > 🗣️ *"Waste no more time arguing what a good man should be. Be one."*  
 > — Marcus Aurelius
