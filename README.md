@@ -87,6 +87,16 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
 
 <br>
 
+<h2 align="center"><strong>💬 Citations préférées / 💬 Favorite Quotes</strong></h2>
+
+> 🗣️ *"Waste no more time arguing what a good man should be. Be one."*  
+> — Marcus Aurelius
+
+> 🗣️ *« Ne perds pas ton temps à discuter de ce qu’est un homme bon. Sois un homme bon. »*  
+> — Marc Aurèle
+
+<br>
+
 <h2 align="center"><strong>📋 Portfolio</strong></h2>
 
 <p align="center">Check my <strong>portfolio</strong> here: <a href="https://portfolio-wam2.onrender.com">Portfolio</a></p>
