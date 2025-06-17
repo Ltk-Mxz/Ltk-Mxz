@@ -26,7 +26,7 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
 - **Databases**: MySQL, SQLite, MongoDB, PostgreSQL, Firebase, Supabase.
 - **Dev Tools**: Git, GitHub, VS Code.
 - **API Tools**: Curl, Postman, Insomnia.
-- **Scripting**: Python, Bash, JavaScript, Java (Maven).
+- **Scripting**: Python, Bash.
 - **Design**: Figma, Penpot, Pencil.
 - **AI-Powered Development Tools**: GitHub Copilot AI.
 - **Hosting**: Render, InfinityFree.
