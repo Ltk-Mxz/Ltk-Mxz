@@ -98,13 +98,9 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
 <br>
 
 <h2 align="center"><strong>📋 Portfolio</strong></h2>
-
 <p align="center">Check my <strong>portfolio</strong> here: <a href="https://ltk-mxz-portfolio.vercel.app/">Portfolio</a></p>
 
 <br>
 
 <h2 align="center"><strong>❣️ My Passions </strong></h2>
-
 <p align="center">Check my <strong>passions</strong> here: <a href="https://ltk-mxz-passion.vercel.app/">My Passions</a></p>
-
-<br>
