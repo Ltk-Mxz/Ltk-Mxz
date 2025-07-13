@@ -30,7 +30,7 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
 - **Scripting**: Python, Bash.
 - **Design**: Figma, Penpot, Pencil.
 - **AI-Powered Development Tools**: GitHub Copilot AI.
-- **Hosting**: Render, InfinityFree.
+- **Hosting**: Render, InfinityFree, Vercel
 
 <br>
 
