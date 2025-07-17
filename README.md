@@ -25,7 +25,7 @@ I'm a 2nd year **Application Development** student passionate about **Full Stack
 - **Desktop Technologies**: Electron.js, PyQt5, Tkinter.
 - **Databases**: MySQL, SQLite, MongoDB, PostgreSQL, Firebase, Supabase.
 - **Dev Tools**: Git, GitHub, VS Code.
-- **CI / CD Tools**: Github Actions
+- **DevOps Tools**: Github Actions, Docker
 - **API Tools**: Curl, Postman, Insomnia.
 - **Scripting**: Python, Bash.
 - **Design**: Figma, Penpot, Pencil.
