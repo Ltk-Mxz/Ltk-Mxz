@@ -1,16 +1,3 @@
-<h1 align="center"><strong>Hello, It's Paul A. </strong>👋</h1>
-
-<br>
-
-<p align="center">
-  <img height="300" src="https://media.giphy.com/media/tbyjrIX9NlZ8k/giphy.gif?cid=ecf05e474n0ro39eckzm749uso84kgcs33ed5u5ynegb7tqq&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
-</p>
-
-<h2 align="center"><strong>😎 About Me</strong></h2>
-
-I'm a 2nd year **Application Development** student passionate about **Full Stack Development** and **Cybersecurity**. I enjoy building secure, scalable web applications and APIs, and I'm eager to specialize further in the field of cybersecurity.
-<br>
-
 <h2 align="center"><strong>🛠️ My Skills</strong></h2>
 
 - **Frontend Technologies**: React.js, Next.js, Bootstrap CSS, Tailwind CSS.
